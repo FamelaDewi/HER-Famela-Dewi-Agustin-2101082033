@@ -1,0 +1,5 @@
+com\famela\pegawai\controller\PegawaiController.class
+com\famela\pegawai\PegawaiApplication.class
+com\famela\pegawai\service\PegawaiService.class
+com\famela\pegawai\repository\PegawaiRepository.class
+com\famela\pegawai\entity\Pegawai.class
