@@ -1,0 +1,4 @@
+com\famela\user\service\service\UserService.class
+com\famela\user\service\dto\User.class
+com\famela\user\service\controller\UserController.class
+com\famela\user\service\repository\UserRepository.class
