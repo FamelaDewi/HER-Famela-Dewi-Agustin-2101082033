@@ -1,0 +1,7 @@
+com\famela\peminjaman\service\repository\PeminjamanRepository.class
+com\famela\peminjaman\service\entity\Peminjaman.class
+com\famela\peminjaman\service\PeminjamanServiceApplication.class
+com\famela\peminjaman\service\controller\PeminjamanController.class
+com\famela\peminjaman\service\service\PeminjamanService.class
+com\famela\peminjaman\service\VO\Anggota.class
+com\famela\peminjaman\service\VO\ResponseTemplateVO.class

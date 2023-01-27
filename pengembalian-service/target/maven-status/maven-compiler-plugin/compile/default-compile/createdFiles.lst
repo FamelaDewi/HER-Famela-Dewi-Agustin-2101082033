@@ -1,0 +1,10 @@
+com\windo\pengembalian\service\VO\ResponseTemplateVO.class
+com\windo\pengembalian\service\VO\ResponseTemplateVOPinjam.class
+com\windo\pengembalian\service\entity\Pengembalian.class
+com\windo\pengembalian\service\PengembalianServiceApplication.class
+com\windo\pengembalian\service\service\PengembalianService.class
+com\windo\pengembalian\service\VO\Peminjaman.class
+com\windo\pengembalian\service\repository\PengembalianRepository.class
+com\windo\pengembalian\service\VO\Buku.class
+com\windo\pengembalian\service\controller\PengembalianController.class
+com\windo\pengembalian\service\VO\Anggota.class
